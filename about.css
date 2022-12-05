@@ -1,0 +1,33 @@
+.headerMain {
+    background-image: url(back2.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-bottom: 75px;
+}
+
+.headingText {
+    padding: 100px;
+    color: white;
+}
+
+.head {
+    font-size: 60px;
+}
+
+#pic1 {
+    border-radius: 20px;
+}
+
+
+.navbar {
+    background-color: darkgreen
+}
+
+#sec1 {
+    background-color: chocolate;
+}
+
+.map {
+    border-radius: 10px;
+}
